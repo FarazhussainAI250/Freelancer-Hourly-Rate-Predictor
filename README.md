@@ -1,3 +1,4 @@
+<img width="1913" height="916" alt="image" src="https://github.com/user-attachments/assets/ad68e947-25e4-42e2-83b2-96b877bf9f92" />
 
 # 💼 Freelancer Hourly Rate Predictor
 
