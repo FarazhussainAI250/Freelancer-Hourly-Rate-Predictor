@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 # Load trained model
-model = joblib.load("model/hourly_rate_predictor.pkl")
+model = joblib.load("hourly_rate_predictor.pkl")
 
 st.set_page_config(page_title="Freelancer Rate Predictor", layout="wide")
 
@@ -95,3 +95,4 @@ st.markdown("""
         Developed by <strong>Faraz Hussain</strong>
     </div>
 """, unsafe_allow_html=True)
+
